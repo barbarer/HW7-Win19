@@ -1,5 +1,5 @@
 # HW7-Win19
-You will use beautiful soup to gather data from websites.  See HW7-Soup-Instructions.docx for the detailed instructions.
+You will use beautiful soup to process data from HTML pages.  See HW7-Soup-Instructions.docx for the detailed instructions.
 
 - Fork this repository to your github account. 
 - Clone it using git to your local computer.  
